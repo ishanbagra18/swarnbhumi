@@ -12,7 +12,7 @@ const iconMap = {
 export function ContactPage() {
   return (
     <div className="mx-auto w-full max-w-7xl px-4 py-8 md:px-6 md:py-12">
-      <section className="rounded-[2rem] border border-amber-300/20 bg-slate-950/80 p-6 shadow-[0_24px_70px_rgba(0,0,0,0.35)] md:p-8">
+      <section className="rounded-4xl border border-amber-300/20 bg-slate-950/80 p-6 shadow-[0_24px_70px_rgba(0,0,0,0.35)] md:p-8">
         <p className="text-xs uppercase tracking-[0.35em] text-amber-300">Get in touch</p>
         <h1 className="mt-4 font-serif text-4xl text-stone-50 md:text-6xl">Contact Swarnbhoomi Properties</h1>
         <p className="mt-4 max-w-3xl text-base leading-8 text-stone-300 md:text-lg">
@@ -69,18 +69,18 @@ export function ContactPage() {
           </article>
         </div>
 
-        <article className="overflow-hidden rounded-[2rem] border border-amber-300/15 bg-slate-950/75 shadow-[0_18px_50px_rgba(0,0,0,0.25)]">
+        <article className="overflow-hidden rounded-4xl border border-amber-300/15 bg-slate-950/75 shadow-[0_18px_50px_rgba(0,0,0,0.25)]">
           <div className="border-b border-amber-300/10 p-6">
             <h3 className="font-serif text-2xl text-stone-50">Find us on Google Maps</h3>
             <p className="mt-2 text-sm leading-7 text-stone-300">Bhambori Rd, Deendayal Nagar, Kalwar, Bhambori, Rajasthan 303706</p>
           </div>
-          <div className="min-h-[420px]">
+          <div className="min-h-105">
             <iframe
               title="Swarnbhoomi Properties map"
               src="https://www.google.com/maps?q=Swarnbhoomi+Properties,+Kalwar+Road,+Bhambori,+Jaipur&output=embed"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              className="h-full w-full min-h-[420px] border-0"
+              className="h-full w-full min-h-105 border-0"
             />
           </div>
         </article>
