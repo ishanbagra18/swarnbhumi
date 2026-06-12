@@ -45,7 +45,7 @@ export function AboutPage() {
             </span>
             <h2 className="mt-4 font-serif text-3xl text-stone-50">Local expertise with premium presentation.</h2>
             <p className="mt-4 leading-7 text-stone-300">
-              We guide buyers toward residential plots, commercial properties, and agricultural land with clarity,
+              We guide buyers toward residential plots, farm house, commercial properties, and agricultural land with clarity,
               discretion, and direct access to the Kalwar-Bhambori market.
             </p>
           </div>
@@ -63,6 +63,11 @@ export function AboutPage() {
             <div className="rounded-3xl border border-white/10 bg-white/4 p-5">
               <strong className="block text-lg text-stone-50">Rajasthan</strong>
               <span className="mt-1 block text-sm text-stone-300">Strong local expertise</span>
+            </div>
+
+            <div className="rounded-3xl border border-white/10 bg-white/4 p-5">
+              <strong className="block text-lg text-stone-50">Registration No.</strong>
+              <span className="mt-1 block text-sm text-stone-300">2022/5041</span>
             </div>
           </div>
         </div>

@@ -7,7 +7,7 @@ export const brand = {
     'We pair local market expertise with legal documentation support so every transaction feels clear, secure, and professionally guided.',
 };
 
-export const phones = ['7976203143', '9511697601', '9828010124'];
+export const phones = ['7976203143', '9511697601', '9784010115'];
 export const emails = ['adwaitsharma116@gmail.com', 'sryuvaan15@gmail.com'];
 export const address = 'Bhambori Rd, Deendayal Nagar, Kalwar, Bhambori, Rajasthan 303706';
 
